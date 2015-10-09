@@ -1,0 +1,15 @@
+AssignmentInConditionalCheck:
+CaseMissingElseCheck:
+ClassNameCheck:
+  pattern: !ruby/regexp /^[A-Z][a-zA-Z0-9]*$/
+ClassVariableCheck:
+CyclomaticComplexityBlockCheck:
+  complexity: 4
+CyclomaticComplexityMethodCheck:
+  complexity: 8
+EmptyRescueBodyCheck:
+ForLoopCheck:
+MethodNameCheck:
+  pattern: !ruby/regexp /^[_a-z<>=\[|+-\/\*`]+[_a-z0-9_<>=~@\[\]]*[=!\?]?$/
+ModuleNameCheck:
+  pattern: !ruby/regexp /^[A-Z][a-zA-Z0-9]*$/
