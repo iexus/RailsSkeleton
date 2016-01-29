@@ -1,3 +1,3 @@
-# EFM
+# Skeleton rails project
 
-A project to display Ethernet First Mile errors.
+Just a base with some of the normal gems installed to get started
